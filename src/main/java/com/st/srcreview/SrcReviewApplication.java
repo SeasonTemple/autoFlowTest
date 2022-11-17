@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Bean;
 public class SrcReviewApplication {
 
     private final int a = 1;
-    private final int b = 1;
+    private final int b = 2;
 
     @Bean
     public A A() {
